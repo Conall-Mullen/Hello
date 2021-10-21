@@ -14,6 +14,6 @@ int main(){
         std::cout << "Incorrect\n";
         std::cout << "The correct answer is " << myNum << "\n";
     } else {
-        std::cout << "Correct!\n";
+        std::cout << "You are Correct!\n"; //Changed text here
     }
 }
